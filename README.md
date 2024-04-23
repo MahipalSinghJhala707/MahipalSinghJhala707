@@ -19,7 +19,7 @@
     </p>
     <p>
     <a href="https://stackoverflow.com/users/24579299/mahipal-singh-jhala" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="morningstar" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
-    <a href="https://www.codechef.com/users/mahipalsingh07" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akashsoni2061" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://www.codechef.com/users/mahipalsingh07" target="_blank"><img align="center" src="https://image.pngaaa.com/134/6179134-middle.png" alt="mahipalsingh07" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
     <a href="https://github.com/akash2061" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/akash2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
