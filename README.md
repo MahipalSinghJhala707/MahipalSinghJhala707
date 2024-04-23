@@ -1,5 +1,5 @@
 <!--- <p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif" alt="akash2061" /> --->
-<p align="center"> <img height="auto" width="auto" src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" alt="akash2061" />
+<p align="center"> <img height="auto" width="auto" src="https://wallpapers.com/images/high/sukuna-devil-statue-4k-369jhy79qnb0e1z3.webp" alt="MahipalSinghJhala707" />
 
 <h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br>I'm Mahipal Singh Jhala. 💫</h1>
 <h3 align="center">A Growing Developer.</h3>
@@ -14,14 +14,14 @@
   Let's Connect and have a Chat!💬
 </h1>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/mahipal-singh-jhala-94184424b/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="akash soni" ></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/mahipal-singh-jhala-94184424b/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="MahipalSinghJhala707" ></a>&nbsp;&nbsp;
     <a href="mailto:mahipalsinghjhala707@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     </p>
     <p>
-    <a href="https://stackoverflow.com/users/24579299/mahipal-singh-jhala" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="morningstar" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://stackoverflow.com/users/24579299/mahipal-singh-jhala" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="MahipalSinghJhala707" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
     <a href="https://www.codechef.com/users/mahipalsingh07" target="_blank"><img align="center" src="https://image.pngaaa.com/134/6179134-middle.png" alt="mahipalsingh07" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
     <a href="https://github.com/MahipalSinghJhala707" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/akash2061" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+        <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/MahipalSinghJhala707" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
      <a href="https://www.geeksforgeeks.org/user/mahipalsingy72v/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
