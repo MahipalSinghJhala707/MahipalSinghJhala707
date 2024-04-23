@@ -28,8 +28,9 @@
 </div>
 <br/>
 
--   🌱 I’m currently learning **C++ & Python3 for better development of my skills.**
-
+- 🌱 I’m currently learning **C++ & Python3 for better development of my skills.**
+<br/>
+<br/>
 
 
 <!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> 
@@ -68,12 +69,12 @@
 <br/><br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
-    <img src="https://komarev.com/ghpvc/?username=akash2061&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MahipalSinghJhala707&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=akash2061&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=MahipalSinghJhala707&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
 </p>
 
@@ -85,11 +86,11 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <p align="left">
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="akash2061"/>
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akash2061&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="akash2061"/>
-  <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=akash2061&theme=radical" alt="akash2061" />
+    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="MahipalSinghJhala707"/>
+    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MahipalSinghJhala707"/>
+  <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=MahipalSinghJhala707&theme=radical" alt="MahipalSinghJhala707" />
 </p>
 </details>
 <br/>
 
-[![akash2061's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akash2061&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MahipalSinghJhala707's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MahipalSinghJhala707&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
