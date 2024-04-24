@@ -27,25 +27,24 @@
      </p>
 </div>
 <br/>
-
+<div align='center'>
 - 🌱 I’m currently learning **C++ & Python3 for better development of my skills.**
-<br/>
-<br/>
-
-
-<!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> 
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/> --->
-<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966"/>
+</div>
+    <br/>
 <br/>
 
+
+<!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> --->
+<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://25.media.tumblr.com/ff53e6a275140e7f2586438c7dfc18a0/tumblr_n17e2zlX2a1slik4to1_500.gif"/>
+<!---<img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/51180ce380190ecc9c21950eecfd518d333675af409b26ddb9414b82fdfaf514/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d6c6f6164696e672d6461726b2e676966"/>--->
+<br/>
+<div align='center'>
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
 <br/>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="50" src="https://rustacean.net/assets/cuddlyferris.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGQl22W8KQ7DlDGwL7N7QvDyAuZKqFL6E-Ww&usqp=CAU"></code>
 <code><img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"></code>
 <code><img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -53,8 +52,6 @@
 #
 
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-<code><img height="40" width="40" src="https://imgs.search.brave.com/V0AsLIO_0aYGw8DpKpoplTxq0SNmsnyoPMGan6c41u8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC92aW0tb3Jp/Z2luYWwtaWNvbi0y/MDQ2eDIwNDgtem5h/NG1oeTIucG5n"></code>
-<code><img height="40" width="40" src="https://imgs.search.brave.com/1zc7gZNGN80g0laR7x4ALtyCVkUxmRzf8xtngqxmg8s/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9hcHBzLW5l/b3ZpbS1pY29uLTUx/Mng1MTItdzRlY3Yz/dWgucG5n"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg"></code>
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"></code>
@@ -63,9 +60,8 @@
 
 **OS:**
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png" alt="Ubuntu"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali-Linux"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
-<code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" alt="Arch-Linux"></code>
+</div>
 <br/><br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
