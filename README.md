@@ -1,7 +1,7 @@
 <!--- <p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif" alt="akash2061" /> --->
 <p align="center"> <img height="auto" width="auto" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" alt="MahipalSinghJhala707" />
 
-<h1 align="center">  Hello, &lt;coders/&gt;! 🌱 <br>I'm Mahipal Singh Jhala. 💫</h1>
+<h1 align="center">  Hello! 🌱 <br>I'm Mahipal Singh Jhala. 💫</h1>
 <h3 align="center">A Growing Developer.</h3>
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=fire+code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile." alt="Welcome to my GitHub Profile." />
@@ -28,7 +28,7 @@
 </div>
 <br/>
 <div align='center'>
-- 🌱 I’m currently learning **C++ & Python3 for better development of my skills.**
+- 🌱 I’m currently learning **C++ & Java for better development of my skills.**
 </div>
     <br/>
 <br/>
