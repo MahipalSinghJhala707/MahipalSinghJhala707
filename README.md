@@ -1,5 +1,5 @@
 <!--- <p align="center"> <img height="auto" width="auto" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/87c84e122427761.60d9d8416d2df.gif" alt="akash2061" /> --->
-<p align="center"> <img height="auto" width="auto" src="https://media.tenor.com/D609Ay5PK5QAAAAi/skill-issue-coding.gif" alt="MahipalSinghJhala707" />
+<p align="center"> <img height="auto" width="auto" src="https://i.gifer.com/9kA5.gif" alt="MahipalSinghJhala707" />
 
 <h1 align="center">  Hello! 🌱 <br>I'm Mahipal Singh Jhala. 💫</h1>
 <h3 align="center">A Growing Developer.</h3>
