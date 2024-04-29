@@ -82,11 +82,13 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <p align="left">
-    <img align="left" height="120px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="MahipalSinghJhala707"/>
-    <img align="left" height="120px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MahipalSinghJhala707"/>
-  <img align="left" height="120px" src="https://github-readme-streak-stats.herokuapp.com?user=MahipalSinghJhala707&theme=radical" alt="MahipalSinghJhala707" />
+    <img align="left" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="MahipalSinghJhala707"/>
+    <img align="left" height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MahipalSinghJhala707"/>
+  <img align="left" height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=MahipalSinghJhala707&theme=radical" alt="MahipalSinghJhala707" />
 </p>
 </details>
-<br/>
+<br>
+
+
 
 [![MahipalSinghJhala707's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MahipalSinghJhala707&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
