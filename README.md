@@ -68,11 +68,11 @@
     <img src="https://komarev.com/ghpvc/?username=MahipalSinghJhala707&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
 </p>
 
-<p align="center" style='margin: 16px 4px 8px;'>
+<!--<p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=MahipalSinghJhala707&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
-</p>
+</p>-->
 
 #
 
@@ -82,9 +82,9 @@
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <p align="left">
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="MahipalSinghJhala707"/>
-    <img align="left" height="170px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MahipalSinghJhala707"/>
-  <img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=MahipalSinghJhala707&theme=radical" alt="MahipalSinghJhala707" />
+    <img align="center" height="130px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="MahipalSinghJhala707"/>
+    <img align="center" height="130px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MahipalSinghJhala707&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="MahipalSinghJhala707"/>
+  <img align="center" height="130px" src="https://github-readme-streak-stats.herokuapp.com?user=MahipalSinghJhala707&theme=radical" alt="MahipalSinghJhala707" />
 </p>
 </details>
 <br/>
