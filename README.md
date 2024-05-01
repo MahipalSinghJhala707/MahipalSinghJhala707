@@ -28,7 +28,7 @@
 </div>
 <br/>
 <div align='center'>
-- 🌱 I’m currently learning **C++ & Java for better development of my skills.**
+- 🌱 I’m currently learning **C++ & Java for better development of my skills.
 </div>
     <br/>
 <br/>
