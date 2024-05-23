@@ -1,5 +1,5 @@
 <!--<p align="center" > <img height="250" width="250" src="https://media.tenor.com/1jrUvITt1QcAAAAi/github-sticker.gif" alt="MahipalSinghJhala707" />-->
-<!--<p align="center"> <img height="auto" width="auto" src="https://i.gifer.com/9kA5.gif" alt="MahipalSinghJhala707" />-->
+<p align="center"> <img height="auto" width="auto" src="https://i.gifer.com/9kA5.gif" alt="MahipalSinghJhala707" />
 
 <h1 align="center">  Hello! 🌱 <br>I'm Mahipal Singh Jhala. 💫</h1>
 <h3 align="center"> Growing Developer || Blockchain Enthusiast || Avid Learner </h3>
