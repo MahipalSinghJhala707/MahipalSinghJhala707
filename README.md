@@ -62,7 +62,7 @@
 <code><img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/ubuntu_logo_icon_147216.png" alt="Ubuntu"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Windows_logo_-_2012_%28dark_blue%29.svg/640px-Windows_logo_-_2012_%28dark_blue%29.svg.png" alt="Windows"></code>
 </div>
-<br/><br/>
+<br/><br/><br/>
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <img src="https://komarev.com/ghpvc/?username=MahipalSinghJhala707&label=Profile%20views&color=0e75b6&style=flat" alt="github profile views" />
