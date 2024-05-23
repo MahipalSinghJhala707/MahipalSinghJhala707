@@ -11,7 +11,7 @@
 
 <div align='center'>
 <h1 align="center">
-  Let's Connect and have a Chat!!💬
+  Let's Connect and have a Chat!💬
 </h1>
   <p align='center'>
     <a href="https://www.linkedin.com/in/mahipal-singh-jhala-94184424b/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="MahipalSinghJhala707" ></a>&nbsp;&nbsp;
