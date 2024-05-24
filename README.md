@@ -34,7 +34,6 @@
 <br/>
 
 
-<!--- <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif"/> --->
 <img align="left" padding height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/ORwVOmkKdYEAAAAi/pato-caminando.gif"/>
 <br/>
 <div align='center'>
