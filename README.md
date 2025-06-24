@@ -14,7 +14,7 @@ A full DevOps automation project with:
 - SonarQube quality gates
 - Kubernetes deployments
 - Prometheus + Grafana dashboards  
-> 📸 [View Architecture Diagram](./CICD_boardgameDB/image.png)
+> 📸 [View Architecture Diagram](./CICD_boardgameDB/blob/main/image.png)
 
 ---
 
