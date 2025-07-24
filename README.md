@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mahipal Singh Jhala
 
-Trying to build something i don't have a know..
+Trying to build something i don't know how to build....
 
 ## 💬 Let's Connect
 - 📫 Email: **mahipalsinghjhala707@gmail.com**
